@@ -33,7 +33,7 @@ You should now have a Jetty server running on localhost:8080. Navigate to http:/
 
 Importing in NetBeans 8
 --------------------
-These instructions were tested on NetBeans 8.0.2. You can get it from https://www.netbeans.org
+These are instructions were tested on NetBeans 8.0.2. You can get it from https://www.netbeans.org
 
 To checkout and run the project in NetBeans, do:
 - Team -> Git -> Clone
